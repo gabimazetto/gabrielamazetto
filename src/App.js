@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import { Contato } from "./components/Contato.jsx";
+import ImageOne from "./components/ImageOne.jsx";
+import ImageThree from "./components/ImageThree";
+import LastPage from "./components/LastPage.jsx";
+import { PageFive } from "./components/PageFive.jsx";
+import { PageFour } from "./components/PageFour.jsx";
+import { PageOne } from "./components/PageOne.jsx";
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <ImageOne />
+      <PageOne/>
+      <ImageThree/>
+      <PageFour/>
+      <PageFive/>
+      <LastPage/>
+      <Contato/>
     </div>
   );
 }
