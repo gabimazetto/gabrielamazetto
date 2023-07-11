@@ -1,5 +1,9 @@
 import React from "react";
-import { Link, Route } from "react-router-dom";
+import GabiImage from "../components/GabiImage.jpeg"
+import Calculator from "../components/calculator.mp4"
+import Responsive from "../components/responsive.mp4"
+import Quiz from "../components/quiz.mp4"
+import Login from "../components/login.mp4"
 
 
 
@@ -17,12 +21,31 @@ export function PageFour() {
                         <div className="list-container">
                             <h3>Front-end</h3>
                                 <ul>
-                                    <li>Calculadora com temas light e dark</li>
-                                    <li>Páginas de vendas (com Bootstrap)</li>
-                                    <li>Jogo Mario Jump</li>
-                                    <li>Páginas Responsivas</li>
-                                    <li>Página de Login/Cadastro</li>
-                                    <li>Quiz literário</li>
+                                    <li>
+                                        <a href={Calculator} target="_blank" rel="noopener noreferrer">
+                                        Calculadora com temas light e dark
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href={Responsive} target="_blank" rel="noopener noreferrer">
+                                        Páginas Responsivas
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href={Login} target="_blank" rel="noopener noreferrer">
+                                        Página de Login/Cadastro
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href={Quiz} target="_blank" rel="noopener noreferrer">
+                                        Quiz literário
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://github.com/gabimazetto/bibliotech-squad3/tree/main/src/pages/Loja" target="_blank" rel="noopener noreferrer">
+                                        Páginas de vendas (com Bootstrap)
+                                        </a>
+                                    </li>
                                 </ul>
                         </div>
                     </div>
@@ -55,11 +78,6 @@ export function PageFour() {
                                     <li>
                                         <a href="https://github.com/gabimazetto/soulpet-back/blob/main/database/produto.js" target="_blank" rel="noopener noreferrer">
                                         Criação e manipulação de rotas
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://github.com/gabimazetto/soulpet-back/blob/main/routes/pets.js" target="_blank" rel="noopener noreferrer">
-                                        Paginação
                                         </a>
                                     </li>
                                 </ul>
