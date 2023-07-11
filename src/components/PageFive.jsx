@@ -15,7 +15,7 @@ export function PageFive() {
                             <p>Front-End do projeto final do bootcamp Soulcode, feito em equipe. Simula um app de delivery de comidas, com contexto de cliente e de restaurantes.</p>
                         </div>
                         <div className="project-icon">
-                            <a href="https://github.com/gabimazetto/foodexpress" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/gabimazetto/food-express-front" target="_blank" rel="noopener noreferrer">
                             <i className="devicon-github-original icon-medium"></i>
                             </a>
                         </div>
@@ -26,7 +26,7 @@ export function PageFive() {
                             <p>Back-End do projeto final do bootcamp Soulcode, feito em equipe. Simula um app de delivery de comidas, com contexto de cliente e de restaurantes.</p>
                         </div>
                         <div className="project-icon">
-                            <a href="https://github.com/gabimazetto/foodexpress" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/gabimazetto/food-express-server" target="_blank" rel="noopener noreferrer">
                             <i className="devicon-github-original icon-medium"></i>
                             </a>
                         </div>
@@ -61,7 +61,7 @@ export function PageFive() {
                             <p>Projeto em grupo do bootcamp Soulcode. Simula uma biblioteca virtual, com sistema de empréstimos e vendas.</p>
                         </div>
                         <div className="project-icon">
-                            <a href="https://github.com/gabimazetto/bibliotech-gabi" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/gabimazetto/bibliotech-squad3" target="_blank" rel="noopener noreferrer">
                             <i className="devicon-github-original icon-medium"></i>
                             </a>
                         </div>
