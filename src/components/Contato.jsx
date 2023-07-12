@@ -1,5 +1,3 @@
-import devicon from "devicon";
-
 export function Contato() {
     return (
     <div className="container-contact">

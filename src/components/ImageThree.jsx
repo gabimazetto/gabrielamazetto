@@ -1,6 +1,6 @@
 import { Parallax } from 'react-parallax';
 import imageThree from "../images/page3.png"
-import devicon from "devicon";
+import "devicon";
 
 const ImageThree = () => (
     <Parallax className="image"  bgImage={imageThree} strength={600}>

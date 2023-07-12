@@ -1,8 +1,8 @@
 import React from "react";
-import Calculator from "../components/calculator.mp4"
-import Responsive from "../components/responsive.mp4"
-import Quiz from "../components/quiz.mp4"
-import Login from "../components/login.mp4"
+import Calculator from "../components/videos/calculator.mp4"
+import Responsive from "../components/videos/responsive.mp4"
+import Quiz from "../components/videos/quiz.mp4"
+import Login from "../components/videos/login.mp4"
 
 
 

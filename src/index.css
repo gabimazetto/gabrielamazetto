@@ -9,6 +9,32 @@ body {
   text-decoration: none;
 }
 
+.content-contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+  margin-top: 10px;
+  margin-left: 12%;
+  margin-bottom: 50px;
+}
+
+.icon-wrapper-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  margin-right: 100px;
+  text-align: center;
+}
+
+.icon-wrapper-contact p {
+  margin-top: 10px;
+  font-size: 1.3rem;
+  color: #7d6878;
+  line-height: 1.5;
+}
 
 .project-icon a {
   text-decoration: none;
@@ -45,22 +71,6 @@ body {
   color: #7d6878;
 }
 
-.icon-wrapper-contact {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 50px;
-  margin-right: 100px;
-  text-align: center;
-}
-
-.icon-wrapper-contact p {
-  margin-top: 10px;
-  font-size: 1.3rem;
-  color: #7d6878;
-  line-height: 1.5;
-}
-
 .icon-wrapper:last-child {
   margin-bottom: 0; 
 }
@@ -72,18 +82,6 @@ body {
   align-items: center;
   line-height: 1.2;
 }
-
-.content-contact {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  width: 80%;
-  margin-top: 10px;
-  margin-left: 12%;
-  margin-bottom: 50px;
-}
-
 
 .container-page1 {
   display: flex;
@@ -231,11 +229,9 @@ body {
 .content-done {
   display: flex;
   flex-direction: row;
-  /* justify-content: space-between; */
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font: 1.3rem;
   margin-left: 150px;
-  /* margin-top: 5; */
   color: #7d6878;
   line-height: 1.5;
   width: 100%;
