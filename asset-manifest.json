@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7Bgabrielamazetto%7D/static/css/main.49f2f534.css",
-    "main.js": "/%7Bgabrielamazetto%7D/static/js/main.6e9b9b1f.js",
-    "static/media/responsive.mp4": "/%7Bgabrielamazetto%7D/static/media/responsive.d007a6f1a02d15499d0a.mp4",
-    "static/media/login.mp4": "/%7Bgabrielamazetto%7D/static/media/login.2bdfb1f4f61b9d639b92.mp4",
-    "static/media/quiz.mp4": "/%7Bgabrielamazetto%7D/static/media/quiz.19455ace3c6914374d42.mp4",
-    "static/media/devicon.svg?biu5f3": "/%7Bgabrielamazetto%7D/static/media/devicon.f715b4139afc5236a6e6.svg",
-    "static/media/calculator.mp4": "/%7Bgabrielamazetto%7D/static/media/calculator.490ae93c5ce6952cd913.mp4",
-    "static/media/page1.png": "/%7Bgabrielamazetto%7D/static/media/page1.05be7d31e6b253d51262.png",
-    "static/media/page3.png": "/%7Bgabrielamazetto%7D/static/media/page3.379bb367838e18575482.png",
-    "static/media/devicon.eot?biu5f3": "/%7Bgabrielamazetto%7D/static/media/devicon.afa70020fddd5e5a3260.eot",
-    "static/media/devicon.woff?biu5f3": "/%7Bgabrielamazetto%7D/static/media/devicon.96fdfd136e8a467e1861.woff",
-    "static/media/devicon.ttf?biu5f3": "/%7Bgabrielamazetto%7D/static/media/devicon.b25739c2b9d15a53d60c.ttf",
-    "static/media/GabiImage.jpeg": "/%7Bgabrielamazetto%7D/static/media/GabiImage.3d07bf4936260c44e386.jpeg",
-    "index.html": "/%7Bgabrielamazetto%7D/index.html",
-    "main.49f2f534.css.map": "/%7Bgabrielamazetto%7D/static/css/main.49f2f534.css.map",
-    "main.6e9b9b1f.js.map": "/%7Bgabrielamazetto%7D/static/js/main.6e9b9b1f.js.map"
+    "main.css": "/gabrielamazetto/static/css/main.3e5d365f.css",
+    "main.js": "/gabrielamazetto/static/js/main.3cc71b6c.js",
+    "static/media/responsive.mp4": "/gabrielamazetto/static/media/responsive.d007a6f1a02d15499d0a.mp4",
+    "static/media/login.mp4": "/gabrielamazetto/static/media/login.2bdfb1f4f61b9d639b92.mp4",
+    "static/media/quiz.mp4": "/gabrielamazetto/static/media/quiz.19455ace3c6914374d42.mp4",
+    "static/media/devicon.svg?biu5f3": "/gabrielamazetto/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "static/media/calculator.mp4": "/gabrielamazetto/static/media/calculator.490ae93c5ce6952cd913.mp4",
+    "static/media/page1.png": "/gabrielamazetto/static/media/page1.05be7d31e6b253d51262.png",
+    "static/media/page3.png": "/gabrielamazetto/static/media/page3.379bb367838e18575482.png",
+    "static/media/devicon.eot?biu5f3": "/gabrielamazetto/static/media/devicon.afa70020fddd5e5a3260.eot",
+    "static/media/devicon.woff?biu5f3": "/gabrielamazetto/static/media/devicon.96fdfd136e8a467e1861.woff",
+    "static/media/devicon.ttf?biu5f3": "/gabrielamazetto/static/media/devicon.b25739c2b9d15a53d60c.ttf",
+    "static/media/GabiImage.jpeg": "/gabrielamazetto/static/media/GabiImage.3d07bf4936260c44e386.jpeg",
+    "index.html": "/gabrielamazetto/index.html",
+    "main.3e5d365f.css.map": "/gabrielamazetto/static/css/main.3e5d365f.css.map",
+    "main.3cc71b6c.js.map": "/gabrielamazetto/static/js/main.3cc71b6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.49f2f534.css",
-    "static/js/main.6e9b9b1f.js"
+    "static/css/main.3e5d365f.css",
+    "static/js/main.3cc71b6c.js"
   ]
 }
