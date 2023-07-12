@@ -1,5 +1,4 @@
 import React from "react";
-import GabiImage from "../components/GabiImage.jpeg"
 import Calculator from "../components/calculator.mp4"
 import Responsive from "../components/responsive.mp4"
 import Quiz from "../components/quiz.mp4"
