@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/%7Bgabrielamazetto%7D/static/css/main.d5656033.css",
+    "main.css": "/%7Bgabrielamazetto%7D/static/css/main.49f2f534.css",
     "main.js": "/%7Bgabrielamazetto%7D/static/js/main.6e9b9b1f.js",
     "static/media/responsive.mp4": "/%7Bgabrielamazetto%7D/static/media/responsive.d007a6f1a02d15499d0a.mp4",
     "static/media/login.mp4": "/%7Bgabrielamazetto%7D/static/media/login.2bdfb1f4f61b9d639b92.mp4",
@@ -14,11 +14,11 @@
     "static/media/devicon.ttf?biu5f3": "/%7Bgabrielamazetto%7D/static/media/devicon.b25739c2b9d15a53d60c.ttf",
     "static/media/GabiImage.jpeg": "/%7Bgabrielamazetto%7D/static/media/GabiImage.3d07bf4936260c44e386.jpeg",
     "index.html": "/%7Bgabrielamazetto%7D/index.html",
-    "main.d5656033.css.map": "/%7Bgabrielamazetto%7D/static/css/main.d5656033.css.map",
+    "main.49f2f534.css.map": "/%7Bgabrielamazetto%7D/static/css/main.49f2f534.css.map",
     "main.6e9b9b1f.js.map": "/%7Bgabrielamazetto%7D/static/js/main.6e9b9b1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5656033.css",
+    "static/css/main.49f2f534.css",
     "static/js/main.6e9b9b1f.js"
   ]
 }
