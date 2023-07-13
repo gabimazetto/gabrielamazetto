@@ -349,7 +349,8 @@ p {
   color: #7d6878;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
+
 
 .container-page1 {
   display: flex;
@@ -370,28 +371,34 @@ p {
 
 .container-profile {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  height: 138vh;
+}
+
+.text-profile {
+  display: flex;
+  flex-direction: column;
+  width: 180%;
+}
+
+.header-profile {
+  margin-left: -50px;
+  width: max-content;
+}
+
+
+.text-box-profile {
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  height: 100vh;
-  width: 100%;
+  align-items: initial;
 }
 
 .gabi-image {
   width: 50%;
   border-radius: 50%;
-  
 }
 
-.text-box-profile h1{
-  display: flex;
-  justify-content: flex-start;
-  margin-left: 90px;
-}
-
-.text-box-profile{
-  display: flex;
-  flex-direction: initial;
-}
 
 .container-done {
   display: flex;
