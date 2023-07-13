@@ -348,3 +348,82 @@ p {
 .linguagens-text {
   color: #7d6878;
 }
+
+@media screen and (max-width: 480px) {
+
+.container-page1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: fit-content;
+}
+
+.content {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 60vh;
+  width: 100%;
+}
+
+.container-profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.gabi-image {
+  width: 50%;
+  border-radius: 50%;
+  
+}
+
+.text-box-profile h1{
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 90px;
+}
+
+.text-box-profile{
+  display: flex;
+  flex-direction: initial;
+}
+
+.container-done {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+.container-projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 230vh;
+}
+
+.text-box-done {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-right: 90px;
+}
+
+.header-done h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.content-done {
+  display: flex;
+  flex-direction: column;
+}
+}
