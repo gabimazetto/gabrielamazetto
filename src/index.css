@@ -349,6 +349,8 @@ p {
   color: #7d6878;
 }
 
+
+/* RESPONSIVIDADE ------------------------ */
 @media screen and (min-width: 320px) and (max-width: 480px) {
 
 .container-page1 {
@@ -501,5 +503,4 @@ p {
   text-align: center;
   width: 15%;
 }
-
 }
