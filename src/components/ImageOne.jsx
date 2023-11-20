@@ -6,7 +6,7 @@ const ImageOne = () => (
             <div className="content">
                 <div className="container-page1">
                     <h3 className="image-text">Oi, eu sou a gabi!</h3>
-                <span>Uma Dev Jr Fullstack </span>
+                <span>Uma Dev Jr Front-End </span>
                 </div>
         </div>
     </Parallax>
